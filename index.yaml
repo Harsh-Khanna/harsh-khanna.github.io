@@ -3,7 +3,7 @@ entries:
   pages:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-07-30T06:04:15.436156139+01:00"
+    created: "2021-07-30T06:31:13.496905945+01:00"
     dependencies:
     - name: pages-api
       repository: http://localhost:8080
@@ -12,11 +12,10 @@ entries:
       repository: http://localhost:8080
       version: 1.x.x
     description: A Helm chart for Pages Application
-    digest: ef9f56a0e4844c10ed4944723b3a81f76130fb970078f5b2bafc50cd66fac9f3
+    digest: 20b5d178202d2cf86f58e917a26e41243b9a3c9c624a1de8086e353cc2e52e49
     name: pages
     type: application
     urls:
-    - https://harsh-khanna.github.io/
     - pages-1.0.0.tgz
     version: 1.0.0
-generated: "2021-07-30T06:04:15.433988991+01:00"
+generated: "2021-07-30T06:31:13.494592211+01:00"
